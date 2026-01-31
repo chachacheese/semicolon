@@ -10,15 +10,15 @@
 ## 🛠 Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Tools & Build
+### Tools
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
@@ -63,7 +63,7 @@
 - **Java**
 - **JSP / Servlet**
 - **MVC 아키텍처**
-- **MySQL**
+- **ORACLE SQL**
 - **Tomcat**
 - **jQuery / AJAX**
 
@@ -99,7 +99,7 @@ semicolon/
 ## ⚙️ 실행 방법
 
 1. Eclipse에서 Dynamic Web Project로 Import  
-2. MySQL 연결 설정 수정  
+2. ORACLE SQL 연결 설정 수정  
 3. Tomcat 서버에서 Run on Server
 
 ※ 현재는 개발 환경 차이로 실행이 어려울 수 있으며,  
